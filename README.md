@@ -68,7 +68,7 @@ Welcome to Notes Buddy, a web platform designed for students to read and share c
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/ramxcodes/NotesBuddy.git
+   git clone https://github.com/Shubam081220/NotesBuddy.git
 
     # For Windows
 
