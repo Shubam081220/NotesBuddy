@@ -18,12 +18,6 @@ Welcome to Notes Buddy, a web platform designed for students to read and share c
 - Ai Chat with custom agents based on the subject
 - Admin panel for managing the platform and more!
 
-### Contributors
-
-<a href="https://github.com/ramxcodes/NotesBuddy/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ramxcodes/NotesBuddy" />
-</a>
-
 ### Tech Stack
 
 **Frontend:**
