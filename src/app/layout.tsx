@@ -101,7 +101,7 @@ export const metadata: Metadata = {
     "b.tech semester 7 notes",
     "b.tech semester 8 notes",
   ],
-  authors: [{ name: "@ramxcodes" }],
+  authors: [{ name: "Shubam Lunawat" }],
   creator: "Notes Buddy",
   publisher: "Notes Buddy",
   robots: {
